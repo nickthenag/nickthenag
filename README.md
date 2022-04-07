@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nickthenag
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java and C#
